@@ -1,0 +1,2 @@
+1) install latest version of npn 
+2) npx create-react-app project_name to create your project with all the dependencies
