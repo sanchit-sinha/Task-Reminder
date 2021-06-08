@@ -1,2 +1,11 @@
 1) install latest version of npn 
 2) npx create-react-app project_name to create your project with all the dependencies
+
+
+#json-srever
+npm install -g json-server
+create db.json file   
+add the following in scripts in package.json  
+       "server": "json-server --watch db.json --port 5000"
+
+~ Refer : https://github.com/typicode/json-server
